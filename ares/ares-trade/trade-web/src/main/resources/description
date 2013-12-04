@@ -1,0 +1,3 @@
+1.Hibernate4.2+Spring3.2+SpringMVC+shiro1.2.2+Maven
+2.只是初步的进行框架的整合以及登陆的简单实现，访问地址如下:
+3.login url :http://localhost:8084/web/admin.jsp
